@@ -1,0 +1,1 @@
+Webhook = 'https://discord.com/api/webhooks/1444718713109479696/AzZt0ox-mpTSPR_nBhCqXTsg2j6_q1zl7Ak-vwkDeph9O2uQBZjhBw_QrDCTDJfOcPjfr' -- eksempel: 'https://discord.com/api/webhooks/1197266253375623279/BZPrbD6uEXawA-sYvDGT9OeSDBtL_Ww5dP6IM_fDXY39QeQPkbpZrIuG67uATovq64I7'
